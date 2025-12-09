@@ -6,7 +6,7 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ʜᴇʟʟᴏ, ᴡᴏʀʟᴅ!
 
-<p align="left">I am a Data Science & Knowledge Engineering Student with a passion for solving complex problems using AI. I blend technical expertise with creative thinking to build innovative solutions in machine learning and data engineering.</p>
+<p align="left">I am a Data & ML Engineer with a passion for solving complex problems using AI. I blend technical expertise with creative thinking to build innovative solutions in machine learning and data engineering.</p>
 <div align="center">
   <img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
 </div>
