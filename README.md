@@ -1,6 +1,6 @@
-<!-- ═══════════════════════════ HERO — living Van Gogh painting ═══════════════════════════ -->
+<!-- ═══════════════════════════ HERO: living Van Gogh painting ═══════════════════════════ -->
 <p align="center">
-  <img src="assets/hero.gif" alt="Sami Khalfi — AI Automation Engineer — The sky is the limit" width="100%"/>
+  <img src="assets/hero.gif" alt="Sami Khalfi, AI Automation Engineer. The sky is the limit." width="100%"/>
 </p>
 
 <p align="center">
@@ -30,10 +30,10 @@ and end-to-end automation pipelines that run businesses
 while their founders sleep.
 
 sami@sky:~$ ls ~/current/
-├── saas/                 # my own SaaS — in active development
+├── saas/                 # my own SaaS, in active development
 ├── agents-and-skills/    # custom AI agents & reusable skills
 ├── mcp-servers/          # plugging AI into everything
-├── ml-lab/               # models — training, tuning, shipping
+├── ml-lab/               # models: training, tuning, shipping
 └── client-automations/   # full-stack business automation
 ```
 
@@ -45,17 +45,17 @@ sami@sky:~$ ls ~/current/
 <td width="25%" align="center">
   <img src="assets/icon-agents.svg" width="56" alt="Agentic AI"/>
   <h3>Agentic AI</h3>
-  Multi-agent systems, custom skills, MCP servers, RAG architectures, LLM orchestration — AI that <i>does</i>, not just talks.
+  Multi-agent systems, custom skills, MCP servers, RAG architectures, LLM orchestration. AI that <i>does</i>, not just talks.
 </td>
 <td width="25%" align="center">
   <img src="assets/icon-automation.svg" width="56" alt="Automation"/>
   <h3>Automation</h3>
-  End-to-end business automation with n8n, Python &amp; Docker. From lead intake to invoicing — if it's repetitive, I make it disappear.
+  End-to-end business automation with n8n, Python &amp; Docker. If it's repetitive, I make it disappear.
 </td>
 <td width="25%" align="center">
   <img src="assets/icon-ml.svg" width="56" alt="Data Science and Machine Learning"/>
   <h3>Data Science &amp; ML/DL</h3>
-  From raw data to deployed models — deep learning, computer vision, NLP and real-time data pipelines.
+  From raw data to deployed models: deep learning, computer vision, NLP and real-time data pipelines.
 </td>
 <td width="25%" align="center">
   <img src="assets/icon-saas.svg" width="56" alt="SaaS"/>
@@ -155,21 +155,9 @@ sami@sky:~$ ls ~/current/
 <!-- ═══════════════════════════ MISSION ═══════════════════════════ -->
 <p align="center"><img src="assets/header-mission.svg" width="100%" alt="The Mission"/></p>
 
-<table width="100%">
-<tr>
-<td align="center">
-
-**Found the empire** — ship my own AI SaaS and scale it to the world
-
-**Automate entire industries** — not tasks. Whole businesses, end-to-end
-
-**Master the frontier** — agents, ML/DL, and whatever comes next
-
-**Keep ascending** — the sky was never the limit. It was the starting line
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="assets/mission.svg" width="100%" alt="Found the empire. Automate entire industries. Master the frontier. Keep ascending: the sky was never the limit, it was the starting line."/>
+</p>
 
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 <p align="center"><img src="assets/header-stats.svg" width="100%" alt="GitHub Stats"/></p>
