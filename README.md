@@ -16,10 +16,8 @@
   <img src="https://komarev.com/ghpvc/?username=samikhalfi&label=Visitors&color=f5c84b&style=for-the-badge" alt="Profile views"/>
 </p>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
-
 <!-- ═══════════════════════════ WHOAMI ═══════════════════════════ -->
-<h2 align="center"><code>$ whoami</code></h2>
+<p align="center"><img src="assets/header-whoami.svg" width="100%" alt="$ whoami"/></p>
 
 ```bash
 sami@sky:~$ whoami
@@ -39,10 +37,8 @@ sami@sky:~$ ls ~/current/
 └── client-automations/   # full-stack business automation
 ```
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
-
 <!-- ═══════════════════════════ WHAT I DO ═══════════════════════════ -->
-<h2 align="center">What I Do</h2>
+<p align="center"><img src="assets/header-what-i-do.svg" width="100%" alt="What I Do"/></p>
 
 <table width="100%">
 <tr>
@@ -69,10 +65,8 @@ sami@sky:~$ ls ~/current/
 </tr>
 </table>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
-
 <!-- ═══════════════════════════ CLIENTS ═══════════════════════════ -->
-<h2 align="center">Companies I've Automated</h2>
+<p align="center"><img src="assets/header-companies.svg" width="100%" alt="Companies I've Automated"/></p>
 
 <p align="center">Freelance AI automation work, embedded like a team member:</p>
 
@@ -86,10 +80,8 @@ sami@sky:~$ ls ~/current/
   <img src="https://img.shields.io/badge/+_MANY_PRIVATE_CLIENTS-1F2937?style=for-the-badge"/>
 </p>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
-
 <!-- ═══════════════════════════ ARSENAL ═══════════════════════════ -->
-<h2 align="center">The Arsenal</h2>
+<p align="center"><img src="assets/header-arsenal.svg" width="100%" alt="The Arsenal"/></p>
 
 <h4 align="center">Languages</h4>
 <p align="center">
@@ -160,10 +152,8 @@ sami@sky:~$ ls ~/current/
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
-
 <!-- ═══════════════════════════ MISSION ═══════════════════════════ -->
-<h2 align="center">The Mission</h2>
+<p align="center"><img src="assets/header-mission.svg" width="100%" alt="The Mission"/></p>
 
 <table width="100%">
 <tr>
@@ -181,10 +171,8 @@ sami@sky:~$ ls ~/current/
 </tr>
 </table>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
-
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
-<h2 align="center">GitHub Stats</h2>
+<p align="center"><img src="assets/header-stats.svg" width="100%" alt="GitHub Stats"/></p>
 
 <table width="100%">
 <tr>
