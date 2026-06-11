@@ -5,15 +5,15 @@
 
 <p align="center">
   <a href="https://samikhalfi.xyz">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=620&lines=Engineering+Intelligence.;Automating+Tomorrow.;Building+the+next+AI+empire.;The+sky+is+the+limit." alt="Engineering Intelligence. Automating Tomorrow. Building the next AI empire."/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=F5C84B&center=true&vCenter=true&width=620&lines=Engineering+Intelligence.;Automating+Tomorrow.;Building+the+next+AI+empire.;The+sky+is+the+limit." alt="Engineering Intelligence. Automating Tomorrow. Building the next AI empire."/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://samikhalfi.xyz"><img src="https://img.shields.io/badge/🌐_Portfolio-samikhalfi.xyz-0A0F1E?style=for-the-badge&labelColor=0A0F1E&color=22D3EE"/></a>
+  <a href="https://samikhalfi.xyz"><img src="https://img.shields.io/badge/🌐_Portfolio-samikhalfi.xyz-0F1B4D?style=for-the-badge&labelColor=0F1B4D&color=F5C84B"/></a>
   <a href="https://www.linkedin.com/in/sami-khalfi-355098290/"><img src="https://img.shields.io/badge/LinkedIn-Sami_Khalfi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:samikhalfi@esi.ac.ma"><img src="https://img.shields.io/badge/Email-Let's_build-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=samikhalfi&label=Visitors&color=22d3ee&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=samikhalfi&label=Visitors&color=f5c84b&style=for-the-badge" alt="Profile views"/>
 </p>
 
 <br/>
@@ -67,12 +67,12 @@ sami@sky:~$ ls ~/current/
 Freelance AI automation work, embedded like a team member:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SAAFKA-0A0F1E?style=for-the-badge&logo=homeassistant&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/INDEGATE-0A0F1E?style=for-the-badge&logo=databricks&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/CONCIERGELITE-0A0F1E?style=for-the-badge&logo=concourse&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/NODE-0A0F1E?style=for-the-badge&logo=nodedotjs&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/SOFTNEX-0A0F1E?style=for-the-badge&logo=softpedia&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/AYAUTOMATE-0A0F1E?style=for-the-badge&logo=lightning&logoColor=22D3EE"/>
+  <img src="https://img.shields.io/badge/SAAFKA-0F1B4D?style=for-the-badge&logo=homeassistant&logoColor=F5C84B"/>
+  <img src="https://img.shields.io/badge/INDEGATE-0F1B4D?style=for-the-badge&logo=databricks&logoColor=F5C84B"/>
+  <img src="https://img.shields.io/badge/CONCIERGELITE-0F1B4D?style=for-the-badge&logo=concourse&logoColor=F5C84B"/>
+  <img src="https://img.shields.io/badge/NODE-0F1B4D?style=for-the-badge&logo=nodedotjs&logoColor=F5C84B"/>
+  <img src="https://img.shields.io/badge/SOFTNEX-0F1B4D?style=for-the-badge&logo=softpedia&logoColor=F5C84B"/>
+  <img src="https://img.shields.io/badge/AYAUTOMATE-0F1B4D?style=for-the-badge&logo=lightning&logoColor=F5C84B"/>
   <img src="https://img.shields.io/badge/+_many_private_clients-1F2937?style=for-the-badge&logoColor=white"/>
 </p>
 
@@ -85,12 +85,12 @@ Freelance AI automation work, embedded like a team member:
 
 <p>
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MCP_Servers-0A0F1E?style=for-the-badge&logo=modelcontextprotocol&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/Custom_Skills_&_Agents-0A0F1E?style=for-the-badge&logo=robotframework&logoColor=22D3EE"/>
+  <img src="https://img.shields.io/badge/MCP_Servers-0F1B4D?style=for-the-badge&logo=modelcontextprotocol&logoColor=F5C84B"/>
+  <img src="https://img.shields.io/badge/Custom_Skills_&_Agents-0F1B4D?style=for-the-badge&logo=robotframework&logoColor=F5C84B"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-0A0F1E?style=for-the-badge&logo=elasticsearch&logoColor=22D3EE"/>
+  <img src="https://img.shields.io/badge/RAG-0F1B4D?style=for-the-badge&logo=elasticsearch&logoColor=F5C84B"/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
@@ -104,7 +104,7 @@ Freelance AI automation work, embedded like a team member:
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TUICommander-0A0F1E?style=for-the-badge&logo=gnometerminal&logoColor=22D3EE"/>
+  <img src="https://img.shields.io/badge/TUICommander-0F1B4D?style=for-the-badge&logo=gnometerminal&logoColor=F5C84B"/>
 </p>
 
 **📊 Data & Cloud**
@@ -138,16 +138,16 @@ Freelance AI automation work, embedded like a team member:
 <table width="100%">
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=samikhalfi&show_icons=true&bg_color=0A0F1E&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&hide_border=true&rank_icon=github" alt="GitHub Stats" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=samikhalfi&show_icons=true&bg_color=0F1B4D&title_color=F5C84B&icon_color=F5C84B&text_color=E8E3CE&hide_border=true&rank_icon=github" alt="GitHub Stats" width="100%"/>
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=samikhalfi&background=0A0F1E&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&hide_border=true" alt="GitHub Streak" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=samikhalfi&background=0F1B4D&ring=F5C84B&fire=F59E0B&currStreakLabel=F5C84B&sideLabels=E8E3CE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&hide_border=true" alt="GitHub Streak" width="100%"/>
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samikhalfi&bg_color=0A0F1E&color=C9D1D9&line=22D3EE&point=F59E0B&area=true&area_color=22D3EE&hide_border=true" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samikhalfi&bg_color=0F1B4D&color=E8E3CE&line=F5C84B&point=F59E0B&area=true&area_color=F5C84B&hide_border=true" alt="Contribution Graph" width="100%"/>
 </div>
 
 <br/>
