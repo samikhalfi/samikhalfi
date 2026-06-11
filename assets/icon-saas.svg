@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56" fill="none">
+  <!-- rocket body -->
+  <g stroke="#F5C84B" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M28 6 C34 12, 36 22, 32 32 L24 32 C20 22, 22 12, 28 6 Z" fill="none"/>
+    <circle cx="28" cy="19" r="3.4" fill="none"/>
+    <path d="M24 28 L17 37 L24 35" fill="none"/>
+    <path d="M32 28 L39 37 L32 35" fill="none"/>
+  </g>
+  <!-- flame, flickering -->
+  <path d="M28 48 C24.8 43.5, 24.8 38.5, 28 36.5 C31.2 38.5, 31.2 43.5, 28 48 Z" fill="#F5C84B">
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="0.9s" repeatCount="indefinite"/>
+  </path>
+  <!-- rising speed lines -->
+  <g stroke="#F5C84B" stroke-width="1.8" stroke-linecap="round" opacity="0.6">
+    <line x1="18" y1="44" x2="18" y2="48"><animate attributeName="opacity" values="0;0.8;0" dur="1.4s" begin="0s" repeatCount="indefinite"/></line>
+    <line x1="38" y1="42" x2="38" y2="47"><animate attributeName="opacity" values="0;0.8;0" dur="1.4s" begin="0.7s" repeatCount="indefinite"/></line>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56" fill="none">
+  <!-- axis -->
+  <g stroke="#F5C84B" stroke-width="2" stroke-linecap="round" opacity="0.6">
+    <line x1="10" y1="8" x2="10" y2="46"/>
+    <line x1="10" y1="46" x2="48" y2="46"/>
+  </g>
+  <!-- pulsing bars -->
+  <rect x="16" y="30" width="6" height="16" rx="1.5" fill="#F5C84B" opacity="0.8">
+    <animate attributeName="y" values="34;28;34" dur="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="height" values="12;18;12" dur="2.6s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="26" y="22" width="6" height="24" rx="1.5" fill="#F5C84B" opacity="0.8">
+    <animate attributeName="y" values="26;18;26" dur="2.6s" begin="0.4s" repeatCount="indefinite"/>
+    <animate attributeName="height" values="20;28;20" dur="2.6s" begin="0.4s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="36" y="14" width="6" height="32" rx="1.5" fill="#F5C84B" opacity="0.8">
+    <animate attributeName="y" values="18;12;18" dur="2.6s" begin="0.8s" repeatCount="indefinite"/>
+    <animate attributeName="height" values="28;34;28" dur="2.6s" begin="0.8s" repeatCount="indefinite"/>
+  </rect>
+  <!-- ascending trend star -->
+  <g transform="translate(46 10)">
+    <path d="M0 -4 L1 -1 L4 0 L1 1 L0 4 L-1 1 L-4 0 L-1 -1 Z" fill="#F5C84B">
+      <animateTransform attributeName="transform" type="scale" values="1;1.4;1" dur="2.6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
